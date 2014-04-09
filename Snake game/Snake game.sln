@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake game", "Snake game\Snake game\Snake game.csproj", "{0E30058A-523F-4D6D-93E6-8863A533E074}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Snake gameContent", "Snake game\Snake gameContent\Snake gameContent.contentproj", "{7D57283F-96CB-4E42-B531-92B3E1A75671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E30058A-523F-4D6D-93E6-8863A533E074}.Debug|x86.ActiveCfg = Debug|x86
+		{0E30058A-523F-4D6D-93E6-8863A533E074}.Debug|x86.Build.0 = Debug|x86
+		{0E30058A-523F-4D6D-93E6-8863A533E074}.Release|x86.ActiveCfg = Release|x86
+		{0E30058A-523F-4D6D-93E6-8863A533E074}.Release|x86.Build.0 = Release|x86
+		{7D57283F-96CB-4E42-B531-92B3E1A75671}.Debug|x86.ActiveCfg = Debug|x86
+		{7D57283F-96CB-4E42-B531-92B3E1A75671}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
