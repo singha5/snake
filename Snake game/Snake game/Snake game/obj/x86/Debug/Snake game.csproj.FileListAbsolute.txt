@@ -5,3 +5,6 @@ C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snak
 C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\bin\x86\Debug\Snake game.pdb
 C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\obj\x86\Debug\Snake game.exe
 C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\obj\x86\Debug\Snake game.pdb
+C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\obj\x86\Debug\Snake game.exe

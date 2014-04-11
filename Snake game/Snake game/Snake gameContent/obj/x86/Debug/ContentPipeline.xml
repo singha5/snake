@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\bin\x86\Debug\Content\snake.xnb</Output>
-      <Time>2014-04-09T09:41:11.5008-04:00</Time>
+      <Output>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\bin\x86\Debug\Content\snake.xnb</Output>
+      <Time>2014-04-11T09:06:36.46-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -16,10 +16,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake gameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake gameContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\EASHCS\Documents\Visual Studio 2010\Projects\Snake game\Snake game\Snake game\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake gameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake gameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

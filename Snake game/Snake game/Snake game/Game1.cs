@@ -21,11 +21,12 @@ namespace Snake_game
         Vector2 pellet = new Vector2(2, 2);
         List<Vector2> Snake = new List<Vector2>();
         Texture2D snakeTexture;
+        
 
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
-            Content.RootDirectory = "Content";
+            Content.RootDirectory = "Content"; 
         }
 
         /// <summary>
@@ -74,15 +75,31 @@ namespace Snake_game
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
-            KeyboardState kb = Keyboard.GetState();
+           
+            // TODO: Add your update logic here
+
+             KeyboardState kb = Keyboard.GetState();
             if(kb.IsKeyDown(Keys.Up))
             {
+                velocity = new Vector2 (0,-1);
             }
-            if(Snake[0] == pellet)
+             if(kb.IsKeyDown(Keys.Down))
             {
+                velocity = new Vector2 (0,1);
+            }
+             if(kb.IsKeyDown(Keys.Left))
+            {
+                velocity = new Vector2 (1,0);
+            }
+             if(kb.IsKeyDown(Keys.Right))
+            {
+                velocity = new Vector2(-1, 0);
             }
 
-            // TODO: Add your update logic here
+            if(Snake[0] == pellet)
+            {
+
+            }
 
             base.Update(gameTime);
         }
