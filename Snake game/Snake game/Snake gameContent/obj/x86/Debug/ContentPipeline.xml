@@ -8,7 +8,16 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\bin\x86\Debug\Content\snake.xnb</Output>
-      <Time>2014-04-11T09:06:36.46-04:00</Time>
+      <Time>2014-04-16T08:57:55.979-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pellet.png</Source>
+      <Name>pellet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EASHCS\Documents\GitHub\snake\Snake game\Snake game\Snake game\bin\x86\Debug\Content\pellet.xnb</Output>
+      <Time>2014-04-16T09:34:27.739-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

@@ -21,6 +21,9 @@ namespace Snake_game
         Vector2 pellet = new Vector2(2, 2);
         List<Vector2> Snake = new List<Vector2>();
         Texture2D snakeTexture;
+        Vector2 velocity = new Vector2(0, -1);
+        Vector2 location = new Vector2(1, 1);
+        
         
 
         public Game1()
@@ -52,6 +55,7 @@ namespace Snake_game
             spriteBatch = new SpriteBatch(GraphicsDevice);
             Snake.Add(new Vector2(40,24));
             snakeTexture = Content.Load<Texture2D>(@"snake");
+            
 
             // TODO: use this.Content to load your game content here
         }
@@ -112,7 +116,7 @@ namespace Snake_game
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             spriteBatch.Draw(snakeTexture, Snake[0] * 10, Color.Black);
-
+             
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
